@@ -1,0 +1,1 @@
+import{_ as o,c as a,a as n,b as e,d as r,w as s,r as c,o as _}from"./index-IcqfLf02.js";const d={},l={class:"page"};function p(i,u){const t=c("router-link");return _(),a("div",l,[n("p",null,[e(" Oops, không thể tìm thấy trang. Trở về "),r(t,{to:"/"},{default:s(()=>[e("trang chủ.")]),_:1})])])}const h=o(d,[["render",p]]);export{h as default};
